@@ -1,0 +1,44 @@
+
+    
+
+.header {
+    background-color: #E5E7EB;
+    text-align: center;
+    height: 15vh;
+    color: #48456b;
+}
+
+h1 {
+    margin-top: auto;
+    padding: 1rem;
+
+}
+
+.textarea {
+    height: 10vh;
+    width: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    border:solid #48456b;
+}
+
+.button {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #E5E7EB;
+    width: 8rem;
+    height: 2rem;
+    margin-bottom: 1rem;
+    border:solid #48456b;
+}
+
+
+
+h2 {
+    margin-top: auto;
+    padding: 0.5rem;
+}
